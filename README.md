@@ -14,7 +14,8 @@
 
 **Link UX Prototype :https://www.figma.com/proto/qnGrKos7rkqQdbL4KuFhAE/Untitled?node-id=8-65&p=f&t=UOyfuTWgahEvCw69-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1**
 
-**Link Clickup :[https://app.clickup.com/90181803667/v/li/901811852258](https://sharing.clickup.com/90181803667/l/h/6-901811852258-1/dcef20bd7484451)**
+**Link Clickup :[[https://app.clickup.com/90181803667/v/li/901811852258](https://sharing.clickup.com/90181803667/l/h/6-901811852258-1/dcef20bd7484451)**
+](https://sharing.clickup.com/90181803667/b/h/6-901811852258-2/8b8a22bcba9f797)
 
 **Link Youtube:**
 
