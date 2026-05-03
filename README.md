@@ -20,6 +20,8 @@
 
 **Link Clickup bagian List : https://sharing.clickup.com/90181803667/l/h/6-901811852258-1/dcef20bd7484451**
 
+**Clickup bagian Board : https://sharing.clickup.com/90181803667/b/h/6-901811852258-2/8b8a22bcba9f797**
+
 **Link Clickup bagian Gantt(%) : https://sharing.clickup.com/90181803667/g/h/2kzm27mk-218/e5383029973a578**
 
 ---
@@ -85,6 +87,7 @@ Desain aplikasi dibuat menggunakan **Figma** dengan pendekatan UI yang minimalis
  **Clickup di List**
 
 <img width="1689" height="716" alt="image" src="https://github.com/user-attachments/assets/05b12ee5-fe90-4e3b-ac58-4fa2db557a60" />
+
 
 **Clickup Di Gantt(Persen%)**
 
