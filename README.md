@@ -1,4 +1,4 @@
-# UTS_Pemrograman_Mobile_2_ProyekCalculator
+# UTS Pemrograman Mobile 2 Proyek Calculator
 
 **Nama : Alipiani Dwi Putri**
 
@@ -14,13 +14,13 @@
 
 # Calculite
 
-## LINK
+## Link
 
 **Link UX Prototype :https://www.figma.com/proto/qnGrKos7rkqQdbL4KuFhAE/Untitled?node-id=8-65&p=f&t=UOyfuTWgahEvCw69-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1**
 
 **Link Clickup bagian List : https://sharing.clickup.com/90181803667/l/h/6-901811852258-1/dcef20bd7484451**
 
-**Link Clickup bagian Gantt : https://sharing.clickup.com/90181803667/g/h/2kzm27mk-218/e5383029973a578**
+**Link Clickup bagian Gantt(%) : https://sharing.clickup.com/90181803667/g/h/2kzm27mk-218/e5383029973a578**
 
 ---
 
@@ -44,7 +44,7 @@ Aplikasi ini dikembangkan sebagai bagian dari tugas UTS mata kuliah **Pemrograma
 
 ---
 
-## Desain UI&UX
+## Desain UI
 
 Desain aplikasi dibuat menggunakan **Figma** dengan pendekatan UI yang minimalis dan bersih.
 
@@ -66,39 +66,18 @@ Desain aplikasi dibuat menggunakan **Figma** dengan pendekatan UI yang minimalis
 
 <img width="1920" height="1080" alt="10" src="https://github.com/user-attachments/assets/f17b7497-4f8a-493a-89cf-79534252da46" />
 
-
-**Link UX Prototype :https://www.figma.com/proto/qnGrKos7rkqQdbL4KuFhAE/Untitled?node-id=8-65&p=f&t=UOyfuTWgahEvCw69-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1**
-
-### Tampilan Halaman
-
-| Halaman | Deskripsi |
-|---------|-----------|
-| **Splash Screen** | Halaman pembuka saat aplikasi pertama kali dibuka |
-| **Calculator** | Halaman utama kalkulator |
-| **Riwayat** | Halaman daftar riwayat perhitungan |
-| **AI** | Halaman asisten kecerdasan buatan |
-
-
 ---
 
-## Teknologi yang Digunakan
+##  Tampilan Halaman & Simulasi jalannya aplikasi
 
-- **Design Tool:** Figma
-- **Platform Target:** Android
-- **Bahasa Pemrograman:** *(sesuaikan dengan bahasa yang digunakan, contoh: Kotlin / Java / Flutter)*
-- **Framework:** *(sesuaikan, contoh: Android Native / Flutter)*
+- Splash Screen — loading bar otomatis lalu masuk ke Calculator
+- Calculator — bisa dipakai beneran, hasil tersimpan otomatis ke riwayat
+- Riwayat — tampil semua hasil perhitungan, ada tombol hapus
+- AI — coba ketik pertanyaan seperti "berapa diskon 20%?" atau "hitung luas"
 
----
-
----
-
-## SIimulasi jalannya aplikasi
-
-> *(Tambahkan screenshot aplikasi di sini setelah development selesai)*
-
-| Splash Screen | Calculator | Riwayat | Calculator | Riwayat | Riwayat | Info aplikasi |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img width="412" height="917" alt="Android Compact - 68" src="https://github.com/user-attachments/assets/4d0bc02b-3b3b-4bd8-850b-76211782d0db" />| <img width="412" height="917" alt="Android Compact - 8 (1)" src="https://github.com/user-attachments/assets/c05107fa-3a7e-4cd6-a4a2-1af7c9f21a9d" /> | <img width="412" height="917" alt="Android Compact - 13 (1)" src="https://github.com/user-attachments/assets/d04cedc5-3774-481c-98fe-f9adf57887f6" />|  />|/>|  />|/>| <img width="412" height="917" alt="Android Compact - 14" src="https://github.com/user-attachments/assets/e36136fd-0235-4d83-8356-b6ee77e898bc" /> |
+| Splash Screen | Calculator | Tombol operasi Hitung lengkap | Riwayat | Hapus Riwayat | Info aplikasi | 
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img width="412" height="917" alt="Android Compact - 68" src="https://github.com/user-attachments/assets/4d0bc02b-3b3b-4bd8-850b-76211782d0db" />| <img width="412" height="917" alt="Android Compact - 8 (1)" src="https://github.com/user-attachments/assets/c05107fa-3a7e-4cd6-a4a2-1af7c9f21a9d" /> | <img width="412" height="917" alt="Android Compact - 11 (1)" src="https://github.com/user-attachments/assets/c9ae171f-e131-4cba-9d12-42463d242912" />| <img width="412" height="917" alt="Android Compact - 13 (1)" src="https://github.com/user-attachments/assets/ef69b3e7-f7d4-43a7-a35e-0c61ef430b9c" />|<img width="412" height="917" alt="Android Compact - 69" src="https://github.com/user-attachments/assets/8a5cc9ec-1ea4-4a4d-8972-5430464afc16" />|  <img width="412" height="917" alt="Android Compact - 14" src="https://github.com/user-attachments/assets/d5fedcea-b0f4-45fa-8765-02912fbd4881" />|
 
 ---
 
