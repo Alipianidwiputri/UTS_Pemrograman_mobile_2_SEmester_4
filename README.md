@@ -28,9 +28,6 @@
 
 **Calculite** adalah aplikasi kalkulator mobile yang dirancang dengan antarmuka yang bersih, modern, dan mudah digunakan. Aplikasi ini tidak hanya berfungsi sebagai kalkulator biasa, tetapi juga dilengkapi dengan fitur riwayat perhitungan dan asisten berbasis AI untuk membantu pengguna dalam kebutuhan perhitungan sehari-hari.
 
-Aplikasi ini dikembangkan sebagai bagian dari tugas UTS mata kuliah **Pemrograman Mobile 2** Semester 4.
-
----
 
 ## Fitur Utama
 
@@ -70,10 +67,12 @@ Desain aplikasi dibuat menggunakan **Figma** dengan pendekatan UI yang minimalis
 
 ##  Tampilan Halaman & Simulasi jalannya aplikasi
 
-- Splash Screen — loading bar otomatis lalu masuk ke Calculator
-- Calculator — bisa dipakai beneran, hasil tersimpan otomatis ke riwayat
-- Riwayat — tampil semua hasil perhitungan, ada tombol hapus
-- AI — coba ketik pertanyaan seperti "berapa diskon 20%?" atau "hitung luas"
+- Splash Screen — ada tulisan "Haii Sobat Pintar!!" dan logo Calculator sesuai gambar
+- Tombol ⋮ (titik tiga) di pojok kanan atas — klik untuk ke halaman Tentang Aplikasi
+- Tombol ‹ Calculator — untuk kembali dari Tentang Aplikasi
+- Mode Basic & Scientific — ada toggle, mode scientific ada sin, cos, tan, √x, lg, ln, π, dll
+- Riwayat — tersimpan otomatis, ada tombol hapus riwayat
+- AI — bisa tanya soal perhitungan
 
 | Splash Screen | Calculator | Tombol operasi Hitung lengkap | Riwayat | Hapus Riwayat | Info aplikasi | 
 |:---:|:---:|:---:|:---:|:---:|:---:|
